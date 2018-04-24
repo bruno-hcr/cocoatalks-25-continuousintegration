@@ -13,5 +13,6 @@ Apresentação realizada na 25 edição do cocoatalks campinas 24/04/2018 @iFood
 
 ### Referências
 
- - https://github.com/barrault01/tdc-2016-fastlane
- - https://medium.com/@guilherme.menon.machado/trabalhando-com-m%C3%BAltiplos-ambientes-no-xcode-1a733b09feca
+ - [Fastlane - TDC 2016](https://github.com/barrault01/tdc-2016-fastlane) - [by: Antoine Barrault](https://github.com/barrault01)
+
+ - [Trabalhando com múltiplos ambientes no Xcode](https://medium.com/@guilherme.menon.machado/trabalhando-com-m%C3%BAltiplos-ambientes-no-xcode-1a733b09feca) - [by: Guilherme Machado](https://github.com/GuilhermeMachado)
