@@ -3,6 +3,8 @@ Apresentação realizada na 25 edição do cocoatalks campinas 24/04/2018 @iFood
 
 ![Alt text](./title.png?raw=true "Automatizando processos com Integração Contínua")
 
+- [Assista a apresentação aqui!](https://www.pscp.tv/w/1yNGakOlZMvxj)
+
 ### Sistemas de CI 
 
  - [BuddyBuld](https://www.buddybuild.com "BuddyBuild Homepage")
